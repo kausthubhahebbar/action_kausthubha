@@ -1,4 +1,4 @@
-var calculator = require('');
+var calculator = require('./calculator');
  
 var a=10, b=5;
  
